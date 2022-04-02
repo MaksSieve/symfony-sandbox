@@ -31,3 +31,6 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
+.devcontainer/devcontainer.json
+.devcontainer/Dockerfile
+.vscode/settings.json
